@@ -1,0 +1,41 @@
+.entete{
+    background-color:blue;
+color: white;
+height: 50px;
+padding-top: 40;
+
+padding-bottom: 30;
+}
+
+.contenu {
+    background-image: url(images/photo.jpg);
+    color:white;
+    height: 300px;
+    
+    
+    padding-top: 40;
+    
+    padding-bottom: 30;
+
+
+
+
+}
+
+.pied {
+    background-color: blue;
+    color:white;
+    height:100px;
+    
+    
+    padding-top: 40;
+    padding-right: 50;
+
+
+
+
+
+}
+div{
+    font-size: 30px;
+}
